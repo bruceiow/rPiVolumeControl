@@ -32,4 +32,4 @@ will initiate the volumecontrol.py code.
 7)  Reboot your pi
 8)  Check the status of your service
 
-      sudo systemctl status volumecontrol.service
+      sudo systemctl status volumeControl.service
