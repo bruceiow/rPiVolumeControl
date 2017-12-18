@@ -8,3 +8,5 @@ This explores how to wireup the encoder, code the interface and then run it as a
 * VolumeControl.py  - code to interpret signals from the encoder and interact with the audio driver
 
 * Setup.txt - instructions on how to create and test the service
+
+* GPIOusage.md - Pin connection guide
